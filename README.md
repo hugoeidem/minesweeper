@@ -19,12 +19,12 @@ You can [download the executable from the releases page](https://github.com/hugo
 
 > Note: Since this was built with PyInstaller, Windows might show a security warning when running it. This is normal for unsigned executables.
 
-## 🧠 Code Quality
+## Code Quality
 
 This code was written a while ago and doesn't reflect my current coding style or standards.  
 Still, it works and does the job — and that's something!
 
-## 📦 Building the EXE
+## Building the EXE
 
 To build the executable yourself:
 

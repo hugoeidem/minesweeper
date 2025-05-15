@@ -31,3 +31,18 @@ To build the executable yourself:
 ```bash
 pip install pyinstaller pygame
 pyinstaller --onefile --add-data "data;data" --windowed minesweeper.py
+```
+
+## Or just run it normally
+
+It uses pygame for GUI.
+```bash
+pip install pygame
+git clone https://github.com/hugoeidem/minesweeper.git
+cd minesweeper
+python3 minesweeper.py
+```
+
+## Future update
+
+Gonna make a similar version with polygon shapes which should be interesting, and elegant code ;)
